@@ -8,3 +8,7 @@ Procesamiento de imágenes
 Videos con Python y OpenCV
 Detección de objetos con OpenCV y Python
 ```
+#### URL:
+```
+https://www.udemy.com/course/vision-por-ordenador-python-opencv/
+```
